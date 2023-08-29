@@ -1,6 +1,15 @@
 ﻿Name,ref-Years,ref-TournCats,Type,Venue,Surface (from Venue),Country (from Venue),City (from Venue),StartDate
-Toronto Masters Men,2023,Masters,Atp Singles,Toronto,hard,Canada,Toronto,7.8.2023
-Cincinnati Masters Men,2023,Masters,Atp Singles,Cincinnati,hard,USA,"Cincinnati, OH",14.8.2023
-US Open Men,2023,Grand Slam,Atp Singles,USTA Billie Jean King National Tennis Center,hard,USA,"Queens, New York",28.8.2023
-Cincinnati Masters Women,2023,Masters,Wta Singles,Cincinnati,hard,USA,"Cincinnati, OH",14.8.2023
-US Open Women,2023,Grand Slam,Wta Singles,USTA Billie Jean King National Tennis Center,hard,USA,"Queens, New York",28.8.2023
+Toronto Masters Men,2023,3 Masters,Atp Singles,Toronto,hard,Canada,Toronto,7.8.2023
+Cincinnati Masters Men,2023,3 Masters,Atp Singles,Cincinnati,hard,USA,"Cincinnati, OH",14.8.2023
+US Open Men,2023,2 Grand Slam,Atp Singles,USTA Billie Jean King National Tennis Center,hard,USA,"Queens, New York",28.8.2023
+Cincinnati Masters Women,2023,3 Masters,Wta Singles,Cincinnati,hard,USA,"Cincinnati, OH",14.8.2023
+US Open Women,2023,2 Grand Slam,Wta Singles,USTA Billie Jean King National Tennis Center,hard,USA,"Queens, New York",28.8.2023
+Davis Cup Finals Group Stage,,6 Teams Cup,Teams Men,,,,,12.9.2023
+Laver Cup,,7 Exhibition,Exhibition Men,,,,,22.9.2023
+Shanghai Masters Men,,3 Masters,Atp Singles,,,,,4.10.2023
+Paris Masters Men,,3 Masters,Atp Singles,,,,,30.10.2023
+Finals Men,,1 Year end finals,Atp Singles,,,,,12.11.2023
+Davis Cup Finals,,6 Teams Cup,Teams Men,,,,,21.11.2023
+Next Gen Finals Men,,1 Year end finals,Atp Singles,,,,,28.11.2023
+Wimbledon Men,2023,2 Grand Slam,Atp Singles,Wimbledon,,,,
+Wimbledon Women,2023,2 Grand Slam,Wta Singles,Wimbledon,,,,
